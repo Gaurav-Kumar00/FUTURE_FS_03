@@ -30,5 +30,3 @@ This is an excellent project for exploring **Next.js**, **Tailwind CSS**, and **
 - **[Adobe Firefly](https://www.adobe.com/sensei/generative-ai/firefly.html)** – AI design generation (logos, banners, etc.).
 
 ---
-
-## 📂 Project Structure (Example)
